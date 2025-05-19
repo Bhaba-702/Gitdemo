@@ -2,4 +2,4 @@
 
 Hello World!
 
-Just making a change;
+Just making changes
